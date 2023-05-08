@@ -1,2 +1,6 @@
 print("Ok")
 print("Adesh")
+def greet():
+  print("Ok")
+  print("Hello")
+greet()
